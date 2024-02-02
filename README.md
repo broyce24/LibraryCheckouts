@@ -4,4 +4,6 @@
 ### by John Harrison, Lauren Nguyen, Ben Royce, and Jake Seaberg
 ### AH-1
 
-Shinyapps link: https://harrisonjohn28.shinyapps.io/ah1-seattlites-2020/
+Final Project: https://harrisonjohn28.shinyapps.io/ah1-seattlites-2020/
+
+Exploratory Analysis: https://info-201a-sp22.github.io/exploratory-analysis-broyce24/index.html
